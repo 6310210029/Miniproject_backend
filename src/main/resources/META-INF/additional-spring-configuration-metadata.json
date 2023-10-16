@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "const",
+    "type": "java.lang.String",
+    "description": "A description for 'const'"
+  },
+  {
+    "name": "app.listen(9000,",
+    "type": "java.lang.String",
+    "description": "A description for 'app.listen(9000,'"
+  }
+]}
